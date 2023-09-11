@@ -7,10 +7,9 @@ body {
 
 h1 {
     font-family: Helvetica, sans-serif;
-    font-size: 50px;
-    font-weight: 100%;
+    font-size: 52px;
     margin-bottom: 50px;
-    color: rgb(196, 164, 132);
+    color: rgb(186, 100, 13);
     -webkit-text-stroke: 2px white;
 }
 
@@ -35,10 +34,10 @@ img.odin {
 }
 
 .biko, .crispy-pata, .pork-adobo {
-    background-color: green;
+    background-color: rgb(55, 195, 55);
     padding: 50px;
     margin: auto;
-    border: 20px solid #C4A484;
+    border: 10px solid #a05306;
 }
 
 a {
