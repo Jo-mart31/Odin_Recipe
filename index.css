@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     line-height: 1.5;
     text-align: center;
+    margin: 0 auto;
     background-color: white;
 }
 
@@ -35,10 +36,10 @@ img.odin {
 }
 
 .biko, .crispy-pata, .pork-adobo {
-    background-color: rgb(55, 195, 55);
+    background-color: rgb(29, 148, 29);
     padding: 50px;
     margin: auto;
-    border: 5px solid #a05306;
+    border: 5px solid #c36609;
 }
 
 a {
