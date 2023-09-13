@@ -8,6 +8,8 @@ body {
 
 .heading {
     background-color: brown;
+    width: 60%;
+    margin: 0 auto;
 }
 
 h1 {
@@ -42,8 +44,11 @@ img.odin {
 .biko, .crispy-pata, .pork-adobo {
     background-color: rgb(29, 148, 29);
     padding: 50px;
-    margin: auto;
+    margin: 0 auto;
     border: 5px solid #c36609;
+}
+div.crispy-pata {
+    margin: 0 10px;
 }
 
 a {
