@@ -3,7 +3,7 @@ body {
     line-height: 1.5;
     text-align: center;
     margin: 0 auto;
-    background-color: white;
+    background-color:rgb(210, 252, 168);
 }
 
 .heading {
@@ -29,16 +29,16 @@ img {
 div.recipe {
     background-color: white;
     padding: 20px;
-    margin-right: -10px;
-    margin-left: -10px;
     display: flex;
+    justify-content: space-evenly;
 }
 
 img.odin {
     width: 300px;
     height: 125px;
     border-radius: 20px;
-    margin: 0 auto;
+    margin: 10px auto;
+
 }
 
 .biko, .crispy-pata, .pork-adobo {
