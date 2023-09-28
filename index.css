@@ -46,6 +46,7 @@ img.odin {
     padding: 50px;
     margin: 0 auto;
     border: 5px solid #c36609;
+    border-radius: 20px;
 }
 div.crispy-pata {
     margin: 0 10px;
